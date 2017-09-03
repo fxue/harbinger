@@ -1,7 +1,8 @@
 podcasts = [
+    ['Build Your Own Website, No Coding Required! - with Strikingly CEO David Chen', 'August 28, 2017', 340433384],
     ['The Modularization of Real-Time Communication - with Agora.io CEO Tony Zhao','August 25, 2017', 339386933],
-    ['The Do’s and Do Not’s of China Market Entry - with O’Melveny Managing Partner Walker Wallace','August 14, 2017', 338120868],
-    ['“Rent-to-Buy” the Chinese Runway - with YCloset COO Michael Wang','August 3, 2017',337946870],
+    ["The Do's and Do Not's of China Market Entry - with O'Melveny Managing Partner Walker Wallace",'August 14, 2017', 338120868],
+    ['"Rent-to-Buy" the Chinese Runway - with YCloset COO Michael Wang','August 3, 2017',337946870],
     ['A Gradual, Evolutionary Approach to Disrupting Education - with 17zuoye Cofounder Dun Xiao','July 20, 2017',337946548],
     ['From Silicon Valley to China to India - with Xiaomi Global Head of Sales & Ops Alvin Tse','July 1, 2017',337946552],
     ["Tackling China's Pollution Problem One Solar Panel at a Time - with Xiaosolar CEO Henry Yin","June 29, 2017",337945539],
